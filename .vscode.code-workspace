@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../css personal site"
+		},
+		{
+			"path": "../dice"
+		},
+		{
+			"path": "../dom"
+		},
+		{
+			"path": "../drum"
+		},
+		{
+			"path": "../extensions"
+		},
+		{
+			"path": "../htmlpractice"
+		},
+		{
+			"path": "../jQuery"
+		},
+		{
+			"path": "../TinDog-Start-master"
+		},
+		{
+			"path": "../web development"
+		},
+		{
+			"path": "."
+		}
+	]
+}
